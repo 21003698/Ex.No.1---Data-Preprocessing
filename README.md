@@ -29,7 +29,7 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-## PROGRAM:
+##PROGRAM:
 ### Developed by:challa sandeep
 ### Register no:212221240011
 ```
