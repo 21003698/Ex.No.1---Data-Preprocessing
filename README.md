@@ -1,5 +1,5 @@
 # Ex.No.1---Data-Preprocessing
-##AIM:
+## AIM:To perform Data preprocessing in a data set downloaded from Kaggle
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
@@ -31,9 +31,9 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-##PROGRAM:
-###Developed by:challa sandeep
-###Register no:212221240011
+## PROGRAM:
+### Developed by:challa sandeep
+### Register no:212221240011
 ```
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
