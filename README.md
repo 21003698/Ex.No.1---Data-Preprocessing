@@ -32,8 +32,8 @@ Normalizing the data
 Splitting the data into test and train
 
 ##PROGRAM:
-Developed by:challa sandeep
-Register no:212221240011
+###Developed by:challa sandeep
+###Register no:212221240011
 ```
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
