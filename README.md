@@ -64,7 +64,17 @@ print(df1)
 
 
 ##OUTPUT:
-/ Show the result/
+![NN1](https://user-images.githubusercontent.com/93427522/191886373-f910bddb-7753-429f-8885-4cd31a8a1261.jpg)
 
-##RESULT
-/Type your result here/
+![NN2](https://user-images.githubusercontent.com/93427522/191886393-0019ba80-942e-4c79-acb4-ae5f1cb1677e.jpg)
+
+
+![NN3](https://user-images.githubusercontent.com/93427522/191886527-2dacb14a-3824-4a80-827b-1d84e7c6397d.jpg)
+
+![NN4](https://user-images.githubusercontent.com/93427522/191886537-a6de5bd7-1862-4155-8943-5bcea6bbea1c.jpg)
+
+
+
+## RESULT
+
+Thus the above program for standardizing the given data was implemented successfully.
