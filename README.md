@@ -63,15 +63,18 @@ print(df1)
 ```
 
 
+
 ##OUTPUT:
-![NN1](https://user-images.githubusercontent.com/93427522/191886373-f910bddb-7753-429f-8885-4cd31a8a1261.jpg)
+![NN1](https://user-images.githubusercontent.com/93427522/191889296-d58e09f3-a16d-469b-9369-301e5480a575.jpg)
 
-![NN2](https://user-images.githubusercontent.com/93427522/191886393-0019ba80-942e-4c79-acb4-ae5f1cb1677e.jpg)
+![NN2](https://user-images.githubusercontent.com/93427522/191889327-ddc2bebe-c1b6-488e-aa73-c727d8638226.jpg)
+
+![NN3](https://user-images.githubusercontent.com/93427522/191889344-d9cba7b6-2bdd-4f6b-9e6e-2ce5841c14df.jpg)
 
 
-![NN3](https://user-images.githubusercontent.com/93427522/191886527-2dacb14a-3824-4a80-827b-1d84e7c6397d.jpg)
+![NN4](https://user-images.githubusercontent.com/93427522/191889358-e315b832-fec5-443b-b2b8-88e49fad77d2.jpg)
 
-![NN4](https://user-images.githubusercontent.com/93427522/191886537-a6de5bd7-1862-4155-8943-5bcea6bbea1c.jpg)
+
 
 
 
